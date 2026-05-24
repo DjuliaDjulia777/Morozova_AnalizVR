@@ -1,5 +1,7 @@
 # Morozova_AnalizVR
 Итоговое задание по дисциплине «Анализ временных рядов»
+Ссылка на коллаб https://colab.research.google.com/drive/1awPGzzZS1Rj6cVDrtNW_OqiHMVXnUmLy?usp=sharing
+Ссылка на датасет: https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset
 
 # Отчёт об анализе временного ряда дорожного трафика (Junction 1)
 
